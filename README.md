@@ -31,3 +31,5 @@
 ## STAGE - 6
 
 1. Use ajax call to send and recieve data between the frontend and the backend.
+
+# Finally put a pull request to this repository once everything is done (also include the readme).
