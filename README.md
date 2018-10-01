@@ -33,3 +33,12 @@
 1. Use ajax call to send and recieve data between the frontend and the backend.
 
 # Finally put a pull request to this repository once everything is done (also include the readme).
+
+
+## Questions asked 
+
+1. Should we take data from user in task 2 to insert in table ? 
+Ans : **YES**
+
+2. What is ajax call?
+Ans : Google it you will find it.
